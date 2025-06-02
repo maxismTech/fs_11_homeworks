@@ -1,9 +1,5 @@
-package Test;
+package hw05;
 
-import hw05.Family;
-import hw05.Human;
-import hw05.Pet;
-import hw05.Species;
 import org.testng.annotations.Test;
 import static org.testng.AssertJUnit.*;
 
